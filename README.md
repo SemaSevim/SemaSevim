@@ -5,10 +5,6 @@
 
 
 
-- 🔭 I’m a Computer Engineering student 
-- 🌱 I’m currently learning Python
-- 😄 Pronouns:She/Her
-
 <p align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
