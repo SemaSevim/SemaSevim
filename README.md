@@ -13,13 +13,11 @@
 
 
 
-**Talking about Personal Stuffs:**
 - 🎓 I graduated in Computer Engineering 
 - 🌱 I’m currently learning Kotlin and Jetpack Compose
 - 💻 I love writing code and exploring anything related to it, including database systems
 - 💬 Ask me about anything, I am happy to help
 - 🚀 I’m seeking opportunities to grow and contribute as a developer
-- ⚡️ Fun-Fact: When I’m not coding, you’ll find me reading about psychology
 
 
 **Languages and Tools:** 
